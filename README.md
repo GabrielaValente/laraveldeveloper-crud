@@ -49,7 +49,7 @@
 </table>
     
     
-### Como rodar a aplicação 
+## Como rodar a aplicação 
 
 1) Abra o cmd e execute o comando: composer install
 2) Crie um arquivo .env (pode copiar do arquivo .env.example
