@@ -46,3 +46,14 @@
      <td>Maria DB 10.4</td>
  </tr>
 </table>
+    
+    
+### Como rodar a aplicação 
+
+1) Abra o cmd e execute o comando: composer install
+2) Crie um arquivo .env (pode copiar do arquivo .env.example
+3) Configure suas variáveis em .env
+4) Execute o comando: php artisan migrate
+5) Execute o comando: php artisan serve
+    
+    
