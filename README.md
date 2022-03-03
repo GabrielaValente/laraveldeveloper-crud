@@ -60,7 +60,7 @@
 
     
 ## Telas da aplicação
- 
+_______________________________________________________________________________________________________________
 ![pessoa](https://user-images.githubusercontent.com/54418295/156640229-5e809a66-be43-41b4-a6e1-e4eb3f4d6f1e.png)
 
 ![image](https://user-images.githubusercontent.com/54418295/156640705-88915240-c915-43a4-90e3-d2724659d3be.png)
