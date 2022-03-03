@@ -1,7 +1,6 @@
-<h1> Crud Simples em Laravel <h1>
-![pessoa](https://user-images.githubusercontent.com/54418295/156639844-cc8e862b-468f-4807-8870-d0350ca667ac.png)
 
-   
+<h1> Crud Simples em Laravel <h1>
+
   
  > Status: Developing ⚠️
     
@@ -57,5 +56,13 @@
 3) Configure suas variáveis em .env
 4) Execute o comando: php artisan migrate
 5) Execute o comando: php artisan serve
+
+ 
+![pessoa](https://user-images.githubusercontent.com/54418295/156640229-5e809a66-be43-41b4-a6e1-e4eb3f4d6f1e.png)
+
+![image](https://user-images.githubusercontent.com/54418295/156640705-88915240-c915-43a4-90e3-d2724659d3be.png)
     
+![image](https://user-images.githubusercontent.com/54418295/156640807-532028d4-28fa-425f-a0c0-a3ee42bf38f1.png)
     
+ 
+
