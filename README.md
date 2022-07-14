@@ -1,9 +1,7 @@
 
 <h1> Crud Simples em Laravel <h1>
 
-  
- > Status: Developing ⚠️
-    
+
  ### Essa é uma aplicação web desenvolvida para fortalecer os conhecimentos em laravel e PHP, utilizando banco de dados para armazenar os registros. Seguindo a estrutura MVC, Model, View e Controller.
     
     
@@ -25,10 +23,6 @@
  
  + Ver mais
    
-  
- ## Funcionalidades em desenvolvimento:
-  
-+ Tela de login
 
  ## Tecnologias utilizadas
 
